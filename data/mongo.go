@@ -3,9 +3,9 @@ package data
 import (
 	"github.com/globalsign/mgo"
 	"github.com/globalsign/mgo/bson"
-	"primes.com/config"
-	"primes.com/log"
-	"primes.com/model"
+	"golangword/config"
+	"golangword/log"
+	"golangword/model"
 )
 
 const (

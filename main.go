@@ -9,10 +9,10 @@ import (
 	"strings"
 	"time"
 
-	"primes.com/config"
-	"primes.com/controller"
-	"primes.com/data"
-	"primes.com/log"
+	"golangword/config"
+	"golangword/controller"
+	"golangword/data"
+	"golangword/log"
 )
 
 const TAG = "Primes"

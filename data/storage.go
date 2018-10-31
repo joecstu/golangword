@@ -1,8 +1,8 @@
 package data
 
 import (
-	"primes.com/config"
-	"primes.com/log"
+	"golangword/config"
+	"golangword/log"
 )
 
 type DataStore struct {

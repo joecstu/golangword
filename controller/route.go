@@ -6,9 +6,9 @@ import (
 	"time"
 
 	"github.com/gin-gonic/gin"
-	"primes.com/data"
-	"primes.com/log"
-	"primes.com/model"
+	"golangword/data"
+	"golangword/log"
+	"golangword/model"
 )
 
 var ds *data.DataStore

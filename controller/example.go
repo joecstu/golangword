@@ -4,7 +4,7 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"primes.com/model"
+	"golangword/model"
 	"fmt"
 )
 
