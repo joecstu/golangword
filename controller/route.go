@@ -41,7 +41,7 @@ func api(router *gin.Engine) {
 	apiAuth := api.Group("")
 	apiAuth.Use(sessionValidator)
 
-	api.GET("/example", GetExample)
+	api.GET("/exampleeeeeeeeeeeeeeeee", GetExample)
 	api.POST("/", PostExample)
 
 }
